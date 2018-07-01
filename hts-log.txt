@@ -1,0 +1,147 @@
+HTTrack3.49-2 launched on Sun, 01 Jul 2018 11:53:02 at https://breezometer.com
+(httrack https://breezometer.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:53:05	Warning: 	Note: due to https://breezometer.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:55:32	Error: 	"Forbidden" (403) at link https://breezometer.com/[{ headline: 'Captivate with Global Air Quality Information', text: 'Use location-based, real-time & actionable air pollution data', icon: 'map_icon.png', image: 'phone_product.png', }, { headline: 'Engage with an Interactive Heatmap ', text: 'Display dynamic air quality in an intuitive <br>& interactive way', icon: 'heat_icon.png', image: 'mac_product.png', }, { headline: 'Inform with Forecast & Historical Data', text: 'Give your users & products a head <br>against air pollution', icon: 'forecast_icon.png', image: 'nest_product.png', selected: true }, { headline: 'Impact Lives with Pollen Levels', text: 'Alert sensitive populations, adapt<br> your marketing & technology to pollen trends', icon: 'globe_icon.png', image: 'pollen_watch.png', }] (from https://breezometer.com/)
+11:55:32	Warning: 	Moved Permanently for https://breezometer.com/breezometer-won-startup-open-israel-competition/
+11:55:32	Warning: 	File has moved from https://breezometer.com/breezometer-won-startup-open-israel-competition/ to http://blog.breezometer.com/breezometer-won-startup-open-israel-competition
+11:55:32	Warning: 	Moved Permanently for https://breezometer.com/2017-global-cleantech/
+11:55:32	Warning: 	File has moved from https://breezometer.com/2017-global-cleantech/ to http://blog.breezometer.com/2017-global-cleantech
+11:57:27	Warning: 	Moved Permanently for https://breezometer.com/?p=2240
+11:57:27	Warning: 	File has moved from https://breezometer.com/?p=2240 to https://breezometer.com/solutions/
+11:57:27	Warning: 	Moved Permanently for https://breezometer.com/whats-the-problem-with-low-cost-air-quality-sensors/
+11:57:27	Warning: 	File has moved from https://breezometer.com/whats-the-problem-with-low-cost-air-quality-sensors/ to http://blog.breezometer.com/low-cost-air-quality-sensors
+11:57:28	Warning: 	Moved Permanently for https://breezometer.com/why-air-quality-is-a-huge-opportunity-for-the-car-mobility-industry/
+11:57:28	Warning: 	File has moved from https://breezometer.com/why-air-quality-is-a-huge-opportunity-for-the-car-mobility-industry/ to http://blog.breezometer.com/why-air-quality-is-a-huge-opportunity-for-the-car-mobility-industry
+11:57:29	Warning: 	Moved Permanently for https://breezometer.com/blog/
+11:57:29	Warning: 	File has moved from https://breezometer.com/blog/ to http://blog.breezometer.com
+11:58:32	Warning: 	Moved Permanently for https://breezometer.com/?p=2258
+11:58:32	Warning: 	File has moved from https://breezometer.com/?p=2258 to https://breezometer.com/plans/
+11:58:33	Warning: 	Moved Permanently for https://breezometer.com/?p=4611
+11:58:33	Warning: 	File has moved from https://breezometer.com/?p=4611 to https://breezometer.com/use-cases/
+11:58:33	Warning: 	Moved Permanently for https://breezometer.com/air-quality-pilot-paris/
+11:58:33	Warning: 	File has moved from https://breezometer.com/air-quality-pilot-paris/ to https://breezometer.com/use-cases/air-quality-pilot-paris/
+11:58:35	Warning: 	Moved Permanently for https://breezometer.com/clients/veolia-client/
+11:58:35	Warning: 	File has moved from https://breezometer.com/clients/veolia-client/ to https://breezometer.com/use-cases/veolia-client/
+11:59:37	Warning: 	Moved Permanently for https://breezometer.com/clients/foobot-case-study/
+11:59:37	Warning: 	File has moved from https://breezometer.com/clients/foobot-case-study/ to https://breezometer.com/use-cases/foobot-case-study/
+11:59:38	Warning: 	Moved Permanently for https://breezometer.com/clients/client-air-quality-cities-current-by-ge/
+11:59:38	Warning: 	File has moved from https://breezometer.com/clients/client-air-quality-cities-current-by-ge/ to https://breezometer.com/use-cases/client-air-quality-cities-current-by-ge/
+11:59:39	Warning: 	Moved Permanently for https://breezometer.com/clients/client-rzmask/
+11:59:39	Warning: 	File has moved from https://breezometer.com/clients/client-rzmask/ to https://breezometer.com/use-cases/client-rzmask/
+11:59:46	Warning: 	Moved Permanently for https://breezometer.com/?p=6709
+11:59:46	Warning: 	File has moved from https://breezometer.com/?p=6709 to https://breezometer.com/technology/
+12:00:28	Warning: 	Moved Permanently for https://breezometer.com/?p=4602
+12:00:28	Warning: 	File has moved from https://breezometer.com/?p=4602 to https://breezometer.com/resources/
+12:00:44	Warning: 	Moved Permanently for https://breezometer.com/?p=1595
+12:00:44	Warning: 	File has moved from https://breezometer.com/?p=1595 to https://breezometer.com/air-quality-api/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/?p=5861
+12:00:59	Warning: 	File has moved from https://breezometer.com/?p=5861 to https://breezometer.com/air-quality-map/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/?p=2242
+12:00:59	Warning: 	File has moved from https://breezometer.com/?p=2242 to https://breezometer.com/smart-cities-solution/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/?p=6736
+12:00:59	Warning: 	File has moved from https://breezometer.com/?p=6736 to https://breezometer.com/hella/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/?p=2244
+12:00:59	Warning: 	File has moved from https://breezometer.com/?p=2244 to https://breezometer.com/company/
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/www.youtube.com/embed/f9QiLo7D0EU?rel=0&enablejsapi=1&html5=1%22 (from https://breezometer.com/company/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/breezometers-air-quality-index/%22(read (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/blog.breezometer.com/breezometers-air-quality-index/%22establishment (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/gispub.epa.gov/air/trendsreport/2017/ (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/according-to-a-new-study-breezometers-app-is-changing-peoples-behavior/%22recent (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/gispub.epa.gov/air/trendsreport/2016/%22(EPA (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/request-a-call/%22Get (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/www.youtube.com/watch?v=DJX-cnQZZKI%22 (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22http:/info.breezometer.com/air-quality-technology-paper/ (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/api/ (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/request-a-call/ (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/request-a-call/%22Schedule (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/api/%22Learn (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22mailto:support@breezometer.com/ (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/api/history-api/%22historical (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/www.facebook.com/Breezometer/%22Facebook (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/request-a-call/%22strongSchedule (from https://breezometer.com/faq/)
+12:00:59	Error: 	"Not Found" (404) at link https://breezometer.com/%22https:/breezometer.com/contact-us/ (from https://breezometer.com/faq/)
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/breezometers-air-quality-index/
+12:00:59	Warning: 	File has moved from https://breezometer.com/breezometers-air-quality-index/ to http://blog.breezometer.com/breezometers-air-quality-index
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/according-to-a-new-study-breezometers-app-is-changing-peoples-behavior/
+12:00:59	Warning: 	File has moved from https://breezometer.com/according-to-a-new-study-breezometers-app-is-changing-peoples-behavior/ to http://blog.breezometer.com/according-to-a-new-study-breezometers-app-is-changing-peoples-behavior
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/request-a-call/
+12:00:59	Warning: 	File has moved from https://breezometer.com/request-a-call/ to http://info.breezometer.com/air-quality-data-api
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/api/
+12:00:59	Warning: 	File has moved from https://breezometer.com/api/ to https://breezometer.com/air-quality-api/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/api/history-api/
+12:00:59	Warning: 	File has moved from https://breezometer.com/api/history-api/ to https://breezometer.com/air-quality-api/history-api/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/?p=3002
+12:00:59	Warning: 	File has moved from https://breezometer.com/?p=3002 to https://breezometer.com/contact-us/
+12:00:59	Warning: 	Moved Permanently for https://breezometer.com/jobs/
+12:00:59	Warning: 	File has moved from https://breezometer.com/jobs/ to https://breezometer.com/careers/
+12:01:29	Warning: 	Moved Permanently for https://breezometer.com/?p=686
+12:01:29	Warning: 	File has moved from https://breezometer.com/?p=686 to https://breezometer.com/terms-of-use/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=1751
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=1751 to https://breezometer.com/air-quality-api/history-api/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=3155
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=3155 to https://breezometer.com/air-quality-api/heatmap-tile-overlay/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5788
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5788 to https://breezometer.com/air-quality-api/forecast-api/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=1898
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=1898 to https://breezometer.com/air-quality-api/response-data-fields/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=1872
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=1872 to https://breezometer.com/air-quality-api/response-codes/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5786
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5786 to https://breezometer.com/air-quality-api/pollen-api/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6739
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6739 to https://breezometer.com/air-quality-api/weather-api/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6873
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6873 to https://breezometer.com/careers/sales-development-representative-2/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6868
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6868 to https://breezometer.com/careers/business-development-manager/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6858
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6858 to https://breezometer.com/careers/mobile-and-web-product-manager-israel/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6852
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6852 to https://breezometer.com/careers/mobile-developer/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6841
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6841 to https://breezometer.com/careers/cfo/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6840
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6840 to https://breezometer.com/careers/bookkeeper-and-payroll-clerk/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6835
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6835 to https://breezometer.com/careers/graphic-designer/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6823
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6823 to https://breezometer.com/careers/environmental-engineer/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6822
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6822 to https://breezometer.com/careers/algorithm-engineer/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6817
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6817 to https://breezometer.com/careers/marketing-manager/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6798
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6798 to https://breezometer.com/careers/partner-development-manager-apac/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6789
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6789 to https://breezometer.com/careers/automotive-business-development-manager/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=6780
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=6780 to https://breezometer.com/careers/airborne-pollen-expert/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5894
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5894 to https://breezometer.com/careers/content-marketer/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=2262
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=2262 to https://breezometer.com/careers/product-manager/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=4071
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=4071 to https://breezometer.com/use-cases/air-quality-pilot-paris/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5167
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5167 to https://breezometer.com/use-cases/veolia-client/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/use/client-digital-health-mobile-app/
+12:01:39	Warning: 	File has moved from https://breezometer.com/use/client-digital-health-mobile-app/ to https://breezometer.com/use-cases/client-digital-health-mobile-app/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5295
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5295 to https://breezometer.com/use-cases/foobot-case-study/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=4917
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=4917 to https://breezometer.com/use-cases/client-air-quality-cities-current-by-ge/
+12:01:39	Warning: 	Moved Permanently for https://breezometer.com/?p=5065
+12:01:39	Warning: 	File has moved from https://breezometer.com/?p=5065 to https://breezometer.com/use-cases/client-rzmask/
+12:01:40	Warning: 	Moved Permanently for https://breezometer.com/5-things-to-know-about-air-pollution/
+12:01:40	Warning: 	File has moved from https://breezometer.com/5-things-to-know-about-air-pollution/ to http://blog.breezometer.com/5-things-to-know-about-air-pollution
+12:01:42	Warning: 	Moved Permanently for https://breezometer.com/?p=4364
+12:01:42	Warning: 	File has moved from https://breezometer.com/?p=4364 to https://breezometer.com/use-cases/client-digital-health-mobile-app/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 40 seconds : 211 links scanned, 133 files written (1985171 bytes overall) [824055 bytes received at 1584 bytes/sec], 2198895 bytes transferred using HTTP compression in 144 files, ratio 28%, 7.9 requests per connection
+(19 errors, 117 warnings, 0 messages)
